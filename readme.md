@@ -1,4 +1,4 @@
-# About
+# Resume
 
 Software engineer making complex systems understandable since 2007.<br/>
 Strong expertise in full-stack web development and architecture.<br/>
